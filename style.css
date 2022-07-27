@@ -22,3 +22,15 @@ responsive for mobile
  -------------------------- */
 @media only screen and (max-width: 600px){
 /*--- for course ---*/
+.course{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}
+.reg{
+    text-align: center;
+}
+.company{
+    display: none;
+}

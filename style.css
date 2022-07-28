@@ -8,5 +8,6 @@ responsive for mobile
 @media only screen and (max-width: 576px){
 /*--- for banner ---*/
 .carousel-item img {
-    height: 60vh;
+    height: 50vh;
+}
 }

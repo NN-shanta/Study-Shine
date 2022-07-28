@@ -5,8 +5,8 @@ body {
 /*------------------------
 responsive for mobile
  -------------------------- */
-@media only screen and (max-width: 600px){
+@media only screen and (max-width: 576px){
 /*--- for banner ---*/
-.banner{
-  height: 100%;
+.carousel-item img {
+    height: 60vh;
 }
